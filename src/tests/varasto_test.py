@@ -1,7 +1,5 @@
 import unittest
-from random import randint
 from varasto import Varasto
-
 
 class TestVarasto(unittest.TestCase):
     def setUp(self):
