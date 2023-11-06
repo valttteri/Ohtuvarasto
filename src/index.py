@@ -19,7 +19,5 @@ def main():
     mehua.lisaa_varastoon(50.7)
     print(f"Mehuvarasto: {mehua}")
 
-    print("liian pitkä rivi 222222222222222222222222222222222222222222222222222222222222222222222")
-
 if __name__ == "__main__":
     main()
